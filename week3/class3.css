@@ -1,0 +1,21 @@
+
+.red {
+    color: red;
+}
+
+.otherColor {
+    color: purple;
+}
+
+#big {
+    font-size: 800%;
+}
+
+.blue {
+    color: blue;
+}
+
+#small_teal {
+    font-size: 50%;
+    color: teal;
+}
