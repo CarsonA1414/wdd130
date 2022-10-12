@@ -1,0 +1,18 @@
+body, html{
+    padding: 0;
+    margin: 0;
+}
+
+.maincontent{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.regularsizeimage{
+    width: 100%;
+}
+
+@media screen {
+    .maincontent
+
+}

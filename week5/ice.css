@@ -1,0 +1,26 @@
+body{
+    background-color: #737373;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+header img{
+    margin: auto;
+    width: 100%;
+}
+
+main {
+    padding:20px;
+}
+
+main img{
+    /* margin-top: 5%; */
+    /* margin-left: 6%;
+    margin-right: 5%; */
+    margin-bottom: auto;
+    width:25%;
+    /* max-width: 20%; */
+    border: solid #444444;
+    border-radius: 50%;
+    border-width: 10px;
+}
+
