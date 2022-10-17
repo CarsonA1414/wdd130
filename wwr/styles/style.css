@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Padauk&family=Rubik+Dirt&display=swap');
+
 #content{
     max-width: 1600px;
     margin: 0 auto;
@@ -7,6 +9,7 @@ nav a{
     text-align: center;
     color: black;
     text-decoration: none;
+    padding: 35px;
 }
 #hero-msg h1{
     text-align: center;
@@ -26,6 +29,9 @@ main section{
 }
 body{
     background-color:#396E94;
+    font-family: "Rubik Dirt";
+    margin: 0;
+    padding: 0;
 }
 header{
     background-color: white;
@@ -38,6 +44,10 @@ nav a:hover{
     background-color: #ffb070;
     color: black;
     text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 .join:hover{
     background-color: white;
@@ -45,13 +55,19 @@ nav a:hover{
 }
 .msg{
     background-color: white;
+    line-height: 1.5em;
+    padding: 35px;
 }
 footer{
     background-color: white;
     color: black;
+    padding: 25px 50px;
+    margin-top: 200px;
 }
 .home-title{
     color: white;
+    font-size: 2em;
+    margin-top: 10px;
 }
 h4{
     color: white;
@@ -59,6 +75,10 @@ h4{
 .join{
     color: #dd4050;
     text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 .book:hover{
     color: white;
@@ -68,6 +88,8 @@ h4{
 }
 .msg p{
     color: black;
+    font-size: .8em;
+    padding-bottom: 15px;
 }
 footer a{
     color: #dd4050;
@@ -78,6 +100,7 @@ footer a:hover{
 }
 .icon{
     width: 80px;
+    padding-top: 10px;
 }
 #hero-img{
     width: 100%;
@@ -87,4 +110,25 @@ footer p{
 }
 footer p a:hover{
     text-decoration: underline;
+}
+h2{
+    margin: 0;
+}
+#logo_link{
+    padding-top: 5px;
+}
+footer .social img{
+    padding-top: 15px;
+}
+.rivers-card{
+    margin: 200px 0;
+}
+.campaing-card{
+    margin: 200px 0;
+}
+.rapids-card{
+    margin: 200px 0;
+}
+.card-img{
+    border: 10px solid black;
 }
